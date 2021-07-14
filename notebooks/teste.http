@@ -1,0 +1,10 @@
+ 
+ #get documentos
+ GET http://elastic:changeme@192.168.1.36:9200/usuarios/_search
+
+
+
+ GET http://elastic:changeme@192.168.1.36:9200/usuarios/_doc/9mOMEnoBnqk5DmydQtMq
+
+ POST http://elastic:changeme@192.168.1.36:9200/usuarios/
+ 
